@@ -10,6 +10,7 @@
  filling out the bowls grids with bar numbers (0 to 8)
  d. getting a list of weighing
  e. Clicking on the gold bar number at the bottom of the website and checking for the alert message
- 3. Codethe algorithm from step 1 which uses a set of actions from step 2 to find the fake gold bar
+ 3. Code the algorithm from step 1 which uses a set of actions from step 2 to find the fake gold bar
+    
  The algorithm should populate and weigh gold bars until a fake one is found, click on a fake bar number, output the
  alert message, number of weighing, and list of weighing made.
