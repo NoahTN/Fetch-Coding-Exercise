@@ -1,6 +1,6 @@
 # Fetch Coding Exercise
  
- Challenge
+ ## Challenge
  1. Play around with the website and find the best algorithm (minimum number of weighings for any possible
  fake bar position) to find the fake gold bar.
  2. Create the test automation project using any preferred language to perform
@@ -14,3 +14,12 @@
     
  The algorithm should populate and weigh gold bars until a fake one is found, click on a fake bar number, output the
  alert message, number of weighing, and list of weighing made.
+
+## Installation and Running
+1. Clone the repository
+Ex: ```git clone https://github.com/NoahTN/Fetch-Coding-Exercise.git```
+2. Install npm packages
+```npm install```
+3. Run Playwright testing UI
+``` npx playwright test --ui```
+4. Run the "find fake gold" test
