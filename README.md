@@ -17,9 +17,12 @@
 
 ## Installation and Running
 1. Clone the repository
+
 Ex: ```git clone https://github.com/NoahTN/Fetch-Coding-Exercise.git```
 2. Install npm packages
+
 ```npm install```
 3. Run Playwright testing UI
-``` npx playwright test --ui```
+
+```npx playwright test --ui```
 4. Run the "find fake gold" test
