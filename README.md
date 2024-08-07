@@ -24,8 +24,12 @@ Ex: ```git clone https://github.com/NoahTN/Fetch-Coding-Exercise.git```
 
 ```npm install```
 
-3. Run Playwright testing UI
+3. Install Playwright and browsers
+
+```npx playwright install```
+
+4. Run Playwright testing UI
 
 ```npx playwright test --ui```
 
-4. Run the "find fake gold" test
+5. Run the "find fake gold" test
